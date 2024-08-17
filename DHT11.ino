@@ -1,6 +1,6 @@
 #include "DHT.h" // Importação das biblilotecas
 
-#define DHTPIN 4 // Definindo o pino da placa
+#define DHTPIN 5 // Definindo o pino da placa
 #define DHTTYPE DHT11 // Definito o tipo de sensor
 
 DHT dht(DHTPIN, DHTTYPE); // Cria um objeto do Tipo DHT 
