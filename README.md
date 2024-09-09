@@ -20,7 +20,7 @@ Projeto usando o microcontrolador ESP32 e o sensor DHT11, usado para medir tempe
 ### Processo de implementação:
 
 #### 1º Montar o circuito 
-[![Circuito](https://how2electronics.com/wp-content/uploads/2020/06/ESP32-DHT11-MicroPython.jpg)](https://how2electronics.com/wp-content/uploads/2020/06/ESP32-DHT11-MicroPython.jpg)
+[![Circuito](https://th.bing.com/th/id/R.bfa1a4484d866bb14e8f3e043808f65a?rik=ogCqKKkXY1w8sw&riu=http%3a%2f%2fiotkece.com%2fwp-content%2fuploads%2f2021%2f08%2fesp-dht_bb-e1629031534801.png&ehk=LWME9UH%2bLf4OgPEpXW6FDJWkZIVaokcdCigfqmqN1cw%3d&risl=&pid=ImgRaw&r=0)
 <hr>
 
 #### 2º Instalar bibliotecas na Arduino IDE
